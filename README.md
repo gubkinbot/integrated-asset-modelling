@@ -1,3 +1,3 @@
 # Porphyry IAM
 
-Автоматизация процессов интегрированного моделирования, машинное обучения для построения прокси-модели ГДМ
+Automation of integrated modeling processes, machine learning for building a proxy model of a hydrodynamic model
